@@ -1,0 +1,8 @@
+# all class files
+*.class
+screenshot*
+spicmacay*
+bgimg*
+.vscode/
+blnkback*
+capture*
